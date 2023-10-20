@@ -1,8 +1,6 @@
 # Windows Application Database Project
 
 
-
-
 **Project Title**: DatabaseSQLMusicApp
 
 **Description**:
@@ -27,9 +25,7 @@ DatabaseSQLMusicApp is a comprehensive Windows application that embodies the pri
 
 - **Dynamic Image Loading**: Dynamic loading of album cover images enhances the user experience, allowing users to view album artwork directly within the application.
 
-- **Advanced Features**: The application also supports features like adding, updating, and deleting records from the database, ensuring data remains accurate and up-to-date.
-
-This project showcases the synergy of SQL database management, C# development, OOP principles, and user-friendly interface design, making it a remarkable addition to your portfolio.
+- **Advanced Features**: The application also supports features like adding, updating, and deleting some records from the database. More features can easily be added thanks to the OOP paradigm.
 
 ---
 
