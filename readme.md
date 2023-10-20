@@ -50,6 +50,6 @@ This project involves building a Windows application connected to a SQL database
 
 # Media
 
-![App Running](/images/project_image_001.jpg)
-![Database and Schemas](/images/project_image_002.jpg)
-![ER Diagram](/images/project_image_003.jpg)
+![App Running](/images/project_image_001.jpg)[#]
+![Database and Schemas](/images/project_image_002.jpg)[#]
+![ER Diagram](/images/project_image_003.jpg)[#]
